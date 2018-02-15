@@ -3,8 +3,8 @@
 ## Установка
 
 ```
-> docker pull brandymint/backup
-> docker tag brandymint/backup backup
+docker pull brandymint/backup
+docker tag brandymint/backup backup
 ```
 
 ## Запуск
